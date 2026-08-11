@@ -27,6 +27,9 @@ export const metadata = {
     card: "summary",
     title,
     description
+  },
+  verification: {
+    google: "ayHXvvh7MAYyEd0yabm5xYrI98qeN_1bfcLkvUPkbrM"
   }
 };
 
